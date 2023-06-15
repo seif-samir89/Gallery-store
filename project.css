@@ -121,7 +121,7 @@ ul{
     background-size: 30px 30px;
 }
 .dots {
-    background-image: url("/imgs/dots.png");
+    background-image: url("dots.png");
     height: 186px;
     width: 204px;
     background-repeat: no-repeat;
@@ -1857,10 +1857,10 @@ display: block;
 }
 @keyframes change-background{
     0%, 100%{
-        background-image: url("/discount-background1.jpg");
+        background-image: url("discount-background1.jpg");
     }
     50%{
-        background-image: url("/discount-background2.jpg");
+        background-image: url("discount-background2.jpg");
     }
 }
 /* end animation */
