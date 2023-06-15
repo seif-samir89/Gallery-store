@@ -1729,7 +1729,7 @@ color: var(--main-color);
 }
 .footer .box .links li a::before{
     font-family: "Font Awesome 6.4 Free";
-  content: "&#xf101";
+  content: "&#61697";
     font-weight: 900px;
     margin-right: 10px;
     color: rebeccapurple;
