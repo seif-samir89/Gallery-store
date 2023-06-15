@@ -121,7 +121,7 @@ ul{
     background-size: 30px 30px;
 }
 .dots {
-    background-image: url("../dots.png");
+    background-image: url("../imgs/dots.png");
     height: 186px;
     width: 204px;
     background-repeat: no-repeat;
