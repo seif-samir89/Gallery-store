@@ -1728,7 +1728,7 @@ color: var(--main-color);
     -o-transition: var(--main-transition);
 }
 .footer .box .links li a::before{
-    font-family: "Font Awesome 6.4.0 Free";
+    font-family: "Font Awesome 6 Free";
     content: "\F101";
     font-weight: 900px;
     margin-right: 10px;
