@@ -1727,11 +1727,11 @@ color: var(--main-color);
     -ms-transition: var(--main-transition);
     -o-transition: var(--main-transition);
 }
-.footer .box .links li a::before{
-    font-family: "Font Awesome 6.4 Free";
-  content: "\F050";
-    font-weight: 900px;
-    margin-right: 10px;
+.footer .box .links li a::before {
+  font-family: "Font Awesome 6 Free";
+  content: "\F101";
+  font-weight: 900;
+  margin-right: 10px;
     color: rebeccapurple;
 }
 .footer .box .line{
